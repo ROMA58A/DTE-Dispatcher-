@@ -1,0 +1,5 @@
+node_modules/
+.env
+mensaje.xml
+*.pdf
+*.json
